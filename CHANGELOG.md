@@ -1,5 +1,9 @@
 # Changelog
 
+## **1.0.3**
+- Added Recently Watched Section in Homepage
+- Updated Server List with Asiaflix Servers
+
 ## **1.0.2-af1**
 - Added fix for vidmoly stream link not loading
 - Added X and Reddit in more page

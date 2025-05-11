@@ -1,5 +1,8 @@
 # Changelog
 
+## **1.0.4**
+- Replaced previous ads with Google AdMob Ads (Good Ads).
+
 ## **1.0.3**
 - Added Recently Watched Section in Homepage
 - Updated Server List with Asiaflix Servers

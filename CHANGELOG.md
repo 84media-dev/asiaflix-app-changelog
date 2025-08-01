@@ -1,5 +1,11 @@
 # Changelog
 
+## **1.0.7**
+- Fixed drama image not showing when cover image is available
+- Added cover image field in history
+- Updated show detail page to show drama cover image if available
+- Updated video player service to play Kisskh servers
+
 ## **1.0.4**
 - Replaced previous ads with Google AdMob Ads (Good Ads).
 

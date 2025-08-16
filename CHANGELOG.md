@@ -1,5 +1,8 @@
 # Changelog
 
+## **1.0.8**
+- Fixed subtitles decoding issue in Asiaflix 1 servers
+
 ## **1.0.7**
 - Fixed drama image not showing when cover image is available
 - Added cover image field in history

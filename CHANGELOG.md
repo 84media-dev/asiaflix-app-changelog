@@ -2,6 +2,7 @@
 
 ## **1.0.8**
 - Fixed subtitles decoding issue in Asiaflix 1 servers
+- Videos now start faster with minimal buffering. Playback should feel way smoother right from the start.
 
 ## **1.0.7**
 - Fixed drama image not showing when cover image is available
